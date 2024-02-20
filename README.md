@@ -21,5 +21,3 @@ This project demonstrates a simple Node.js application packaged with Vagrant for
    ```bash
    git clone https://github.com/rituraj2000/vagrant-nodejs.git
 
-cd vagrant-nodejs
-vagrant up --provision
