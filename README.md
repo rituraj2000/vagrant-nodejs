@@ -4,8 +4,8 @@ This project demonstrates a simple Node.js application packaged with Vagrant for
 
 ## Project Features
 
-- Health Endpoint: Provides system health status check at /health.
-- System Details: Displays core system information at /.
+- Health Endpoint: Provides system health status check at 0.0.0.0:8080/health.
+- System Details: Displays core system information at 0.0.0.0:8080/.
 
 ## Getting Started
 
